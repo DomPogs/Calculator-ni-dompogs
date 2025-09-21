@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../table dominikii"
+		},
+		{
+			"path": "K:/wib"
+		},
+		{
+			"path": "../wib"
+		},
+		{
+			"path": "../ACTIVITY4"
+		},
+		{
+			"path": "../UiGPT"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "calculator"
+	}
+}
